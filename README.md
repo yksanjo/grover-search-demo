@@ -1,5 +1,12 @@
 # grover-search-demo
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/grover-search-demo/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/grover-search-demo/actions)
+![License](https://img.shields.io/github/license/yksanjo/grover-search-demo)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/grover-search-demo)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/grover-search-demo)
+
 ## Detailed Description
 
 grover-search-demo is maintained as an industry-grade software project with production-ready engineering practices.  
